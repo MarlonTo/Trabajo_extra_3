@@ -164,26 +164,30 @@ Para la creación de una aplicación debemos seguir los siguientes pasos:
 
 ## 10. CONCLUSIONES
 
+La plataforma AlwaysIA utiliza básicamente la computación basada en la visión de imagenes y video y su principal elemento de hardware es la cámara de video acoplada al computador.
 
+Utiliza los Models como patrones de comportamiento de las imágenes y las clasifica en Detección de Objetos, Clasificación por características, Posición del cuerpo humano y Segmentación Semántica.
+
+La aplicación práctica del uso  plataforma AlwaysAI sería por ejemplo: 
+
+*Aplicación en el ámbito deportivo para mejorar las técnicas para ejecutar una actividad de la manera más eficiente (Posición del cuerpo humano). 
+
+*Aplicación en el área de marketing para identificar la satisfacción al cliente en función de los rasgos que presenta la cara de los clientes después de ser atendidos (Clasificación por Características). 
+
+*Aplicación en el manejo de inventarios dentro de una bodega o línea de producción  para clasificación (Detección de Objetos)
+
+*Aplicación en el ámbito vehicular identificando el incumplimiento de las reglas de transito que están pintadas en las vías públicas  (Segmentación Semántica).
 
  
 ## 11.RECOMENDACIONES
 
+El uso de software desarrollado en la plataforma AlwaysAI deberá utilizarse para reemplazar las actividades realizadas por humanos en tareas visuales que se vean comprometidas por el incremento de volumen de objetos que deben ser observados y que superan las capacidades del ojo humano, así como la capacidad de identificar las características y comportamiento.
  
+El perfeccionamiento deportivo es un área que debería utilizar software de estas características. El uso de la técnica y tecnología permite la producción e identificación de deportistas de élite.
  
  ## 12.BIBLIOGRAFÍA:
 
-- Rupil, A. C., & García Mattío, M. (2019). Node-red, conectando cosas, apis y servicios en línea.
 
-- Sánchez, M., Barrena, M., Bustos, P., Campillo, C., & García, P. (2016). Arquitectura software basada en tecnologías smart para agricultura de precisión. Jornadas de Ingeniería del Software y Bases de Datos.
-
-- Oliphant, T. E. (2007). Python for scientific computing. Computing in Science & Engineering, 9(3), 10-20.
-
-- Blackstock, M., & Lea, R. (2014, October). Toward a distributed data flow platform for the web of things (distributed node-red). In Proceedings of the 5th International Workshop on Web of Things (pp. 34-39).
-
-- Lekić, M., & Gardašević, G. (2018, March). IoT sensor integration to Node-RED platform. In 2018 17th International Symposium INFOTEH-JAHORINA (INFOTEH) (pp. 1-5). IEEE.
-
--Tabaa, M., Chouri, B., Saadaoui, S., & Alami, K. (2018). Industrial communication based on modbus and node-RED. Procedia computer science, 130, 583-588.
  
  
 ## 14. ANEXOS

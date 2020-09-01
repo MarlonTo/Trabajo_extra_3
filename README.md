@@ -47,7 +47,7 @@ Como ocurre con otras tecnologías introducidas en la última década, la inteli
 Aunque algunas de las llamadas aplicaciones de IA no son en realidad cognitivas, existen tecnologías capaces de lograr inteligencia a nivel humano o sobrehumano en determinadas tareas. Naimat y su equipo examinaron cerca de 500.000 empresas y utilizaron el modelo de aprendizaje automático basado en gráficos de Spiderbook para leer la Internet empresarial y clasificar las empresas en diferentes niveles de madurez de IA.
 Con un gráficos y visualizaciones llamativos, este informe presenta hallazgos que incluyen:
 
-![](Save picture/Extra5.png)
+![](Saved pictures/Extra5.png)
  
 ## 4.MARCO TEÓRICO
 

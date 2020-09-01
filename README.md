@@ -145,9 +145,9 @@ Para la creación de una aplicación debemos seguir los siguientes pasos:
 
 ## 8. APORTACIONES
 
-#### Diseño una calculadora científica en Python
+#### Diseño y desarrollo de un ejemplo práctico utilizando la plataforma AlwaysAI publicado en la nube
 
-![](IMG/3.PNG)
+Publicar el sitio web hacia el Internet para vigilancia y control  de la funcionalidad del sistema identificando objetos que se presentan frente a la cámara local donde se ejecuta la aplicación.
 
 #### Implementación de una interfaz HMI en NODE-RED
 

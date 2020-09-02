@@ -7,7 +7,6 @@
 Para el manejo de Inteligencia Artificial se han desarrollado innumerables herramientas de software, algunas de propósito general y al mismo tiempo herramientas de propósito específico  orientadas a resolver problemas como es el reconocimiento de imágenes mediante el aprendizaje de su comportamiento. En este sentido nos hemos planteado realizar un estudio básico de la plataforma AlwaysAI. 
 
 
-
 ## 2.OBJETIVOS
 
 ### General:
@@ -21,7 +20,6 @@ Construir una guía básica para el manejo de la Plataforma AlwaysAI, utilizando
 > Diseño y desarrollo de un ejemplo práctico utilizando la plataforma AlwaysAI.
 
 > Estructurar la información obtenida como insumo para realizar un video Tutorial.
-
 
 
 ## 3.ESTADO DEL ARTE
@@ -50,8 +48,6 @@ Con un gráficos y visualizaciones llamativos, este informe presenta hallazgos q
 ![](IMG/Extra5.png)
  
 ## 4.MARCO TEÓRICO
-
-
  
 ### Plataforma AlwaysAI
  
@@ -140,10 +136,7 @@ Para la creación de una aplicación debemos seguir los siguientes pasos:
 - Navegador
 - Linea de comandos(cmd)
  
-## 7. MAPA DE VARIABLES
-
-
-## 8. APORTACIONES
+## 7. APORTACIONES
 
 #### Diseño y desarrollo de un ejemplo práctico utilizando la plataforma AlwaysAI publicado en la nube
 
@@ -153,16 +146,7 @@ Publicar el sitio web hacia el Internet para vigilancia y control  de la funcion
 
 ![](IMG/11.PNG)
 
-
-
-
-## 9. EXPLICACION DEL CODIGO FUENTE
-
-### Para ver el codigo fuente de cada proyecto, este mismo se encuentra en la carpeta de CODIGO FUENTE
-
-
-
-## 10. CONCLUSIONES
+## 8. CONCLUSIONES
 
 La plataforma AlwaysIA utiliza básicamente la computación basada en la visión de imagenes y video y su principal elemento de hardware es la cámara de video acoplada al computador.
 
@@ -179,13 +163,13 @@ La aplicación práctica del uso  plataforma AlwaysAI sería por ejemplo:
 *Aplicación en el ámbito vehicular identificando el incumplimiento de las reglas de transito que están pintadas en las vías públicas  (Segmentación Semántica).
 
  
-## 11.RECOMENDACIONES
+## 9.RECOMENDACIONES
 
 El uso de software desarrollado en la plataforma AlwaysAI deberá utilizarse para reemplazar las actividades realizadas por humanos en tareas visuales que se vean comprometidas por el incremento de volumen de objetos que deben ser observados y que superan las capacidades del ojo humano, así como la capacidad de identificar las características y comportamiento.
  
 El perfeccionamiento deportivo es un área que debería utilizar software de estas características. El uso de la técnica y tecnología permite la producción e identificación de deportistas de élite.
  
- ## 12.BIBLIOGRAFÍA:
+ ## 10.BIBLIOGRAFÍA:
 
 Aman Naimat. (2016). The New Artificial Intelligence Market [Book]. https://www.oreilly.com/library/view/the-new-artificial/9781492048978/
 
@@ -194,7 +178,7 @@ Introduction — alwaysAI SDK documentation. (2020). https://alwaysai.co/docs/ge
 Oscar Javier Reyes-Ortiz, M. M. J. S. U.-C. (2018). Fuzzy job-shop scheduling problems: A review. Information Sciences, 278, 380–407. https://doi.org/10.1016/j.ins.2014.03.060
  
  
-## 14. ANEXOS
+## 11. ANEXOS
 
 ![](IMG/pi_board_pinout.jpg)
 

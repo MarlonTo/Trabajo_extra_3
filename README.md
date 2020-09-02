@@ -187,7 +187,11 @@ El perfeccionamiento deportivo es un área que debería utilizar software de est
  
  ## 12.BIBLIOGRAFÍA:
 
+Aman Naimat. (2016). The New Artificial Intelligence Market [Book]. https://www.oreilly.com/library/view/the-new-artificial/9781492048978/
 
+Introduction — alwaysAI SDK documentation. (2020). https://alwaysai.co/docs/getting_started/introduction.html
+
+Oscar Javier Reyes-Ortiz, M. M. J. S. U.-C. (2018). Fuzzy job-shop scheduling problems: A review. Information Sciences, 278, 380–407. https://doi.org/10.1016/j.ins.2014.03.060
  
  
 ## 14. ANEXOS

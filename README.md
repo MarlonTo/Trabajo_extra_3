@@ -81,6 +81,14 @@ Las aplicaciones desarrolladas con AlwaysAI son compatibles con las siguientes p
 
 - EdgeIQ Phyton API: Conjunto de librerías desarrolladas en Phyton para la construcción rápida de aplicaciones en la plataforma AlwaysAI.
 
+Aplicación en el ámbito deportivo para mejorar las técnicas para ejecutar una actividad de la manera más eficiente (Posición del cuerpo humano). 
+
+*Aplicación en el área de marketing para identificar la satisfacción al cliente en función de los rasgos que presenta la cara de los clientes después de ser atendidos (Clasificación por Características). 
+
+*Aplicación en el manejo de inventarios dentro de una bodega o línea de producción  para clasificación (Detección de Objetos)
+
+*Aplicación en el ámbito vehicular identificando el incumplimiento de las reglas de transito que están pintadas en las vías públicas  (Segmentación Semántica).
+
 
 
 ## 5. DESARROLLO DE UN EJEMPLO PRACTICO

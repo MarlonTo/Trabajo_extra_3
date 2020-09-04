@@ -188,11 +188,11 @@ Oscar Javier Reyes-Ortiz, M. M. J. S. U.-C. (2018). Fuzzy job-shop scheduling pr
  
 ## 11. ANEXOS
 
-![](ANEXO/Captura.JPG)
+![](ANEXOS/Captura.JPG)
 
-![](ANEXO/Captura01.JPG)
+![](ANEXOS/Captura01.JPG)
 
-![](ANEXO/Captura02.JPG)
+![](ANEXOS/Captura02.JPG)
 
 
  

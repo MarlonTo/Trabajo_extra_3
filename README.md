@@ -130,7 +130,8 @@ Para la creación de una aplicación debemos seguir los siguientes pasos:
   10.	Desde el navegador de internet de la maquina ingresamos a http://localhost:5000
   
   11.	Utilizamos la aplicación.
-
+  
+  12.La aplicacion permite dectetar objetos y animales que son aviones, carros, sillas, gatos, perros
 
 
 ## 6. LISTA DE COMPONENTES 

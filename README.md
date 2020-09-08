@@ -131,8 +131,10 @@ Para la creación de una aplicación debemos seguir los siguientes pasos:
   
   11.	Utilizamos la aplicación.
   
-  12.La aplicacion permite dectetar objetos y animales que son aviones, carros, sillas, gatos, perros
-
+  12.El modelo utilizado para la apliaci÷on es: La segunda versión de la red Faster RCNN basada en la arquitectura Inception y entrenada en el conjunto de datos COCO.
+     El cual detecta a los siguientes objetos con las siguientes etiquetas:antecedentes, avión,                          bicicleta,pájaro,barco,botella,autobús,coche,gato,silla,vaca,comedor,perro,caballo,moto,persona,planta en maceta,oveja,sofá,entrenar,monitor de tv.
+     
+![](IMG/Captura.png)
 
 ## 6. LISTA DE COMPONENTES 
 
